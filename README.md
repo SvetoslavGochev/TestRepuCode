@@ -37,7 +37,7 @@
 </table>
 </article>
 " rel="nofollow"> Programming Basics with C# </a></td>
-<td><a href="https://softuni.bg/certificates/details/71428/4459784c"> Link</a></td>
+<td><a href="https://softuni.bg/certificates/details/71569/983823c4"> Link</a></td>
 </tr>
 <tr>
 <td><a href="https://softuni.bg/trainings/2495/databases-basics-ms-sql-server-september-2019" rel="nofollow"> MS SQL Server </a></td>
