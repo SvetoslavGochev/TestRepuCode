@@ -17,7 +17,7 @@
 </tr>
 <tr>
 <td><a href="https://softuni.bg/trainings/2495/databases-basics-ms-sql-server-september-2019" rel="nofollow"> MS SQL Server </a></td>
-<td><a href="https://softuni.bg/certificates/details/71036/c5a97c11" rel="nofollow"> Link</a></td>
+<td><a href="https://softuni.bg/certificates/details/71569/983823c4"> Link</a></td>
 </tr>
 </tbody>
 </table>
